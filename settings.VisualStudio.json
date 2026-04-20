@@ -1,0 +1,7 @@
+/* Visual Studio Settings File */
+{
+  "textEditor.codeCompletions.general.codeCompletionsProviders": [
+    "intellicode"
+  ],
+  "textEditor.codeCompletions.general.codeCompletionsInvocation": "auto"
+}
